@@ -1,5 +1,5 @@
 ```
-# Criminality Stuff
+[Criminality Stuff]
 (gonna add universal list soon)
 
 [Combat]
@@ -8,14 +8,14 @@
   * Hitbox expander
   * Silent aim
   * Aimbot
-  * (Will add more later)
+  (Will add more later)
 
 [Gun Mods]
   * No recoil
   * No spread
   * Instant aim
   * Instant equip
-  * (Will add more later)
+  (Will add more later)
 
 [Character]
   * Walkspeed
