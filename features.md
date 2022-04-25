@@ -1,3 +1,4 @@
+```
 # Criminality Stuff
 (gonna add universal list soon)
 
@@ -35,3 +36,4 @@
 
 [Chat settings]
   * Toggle chat
+```
