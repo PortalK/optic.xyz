@@ -34,6 +34,6 @@
   * ATM ESP
   * Dealer ESP
 
-[Chat settings]
+[Misc]
   * Toggle chat
 ```
