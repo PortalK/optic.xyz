@@ -1,14 +1,12 @@
 # Criminality Stuff
 (gonna add universal list soon)
 
-[Aimbot]
-  * Silent aim
-  * Aimbot
-
 [Combat]
   * Auto finish
   * Triggerbot
   * Hitbox expander
+  * Silent aim
+  * Aimbot
   (Will add more later)
 
 [Gun Mods]
